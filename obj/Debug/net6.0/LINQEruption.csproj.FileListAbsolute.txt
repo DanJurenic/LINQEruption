@@ -1,0 +1,15 @@
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\bin\Debug\net6.0\LINQEruption.exe
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\bin\Debug\net6.0\LINQEruption.deps.json
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\bin\Debug\net6.0\LINQEruption.runtimeconfig.json
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\bin\Debug\net6.0\LINQEruption.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\bin\Debug\net6.0\LINQEruption.pdb
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\obj\Debug\net6.0\LINQEruption.csproj.AssemblyReference.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\obj\Debug\net6.0\LINQEruption.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\obj\Debug\net6.0\LINQEruption.AssemblyInfoInputs.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\obj\Debug\net6.0\LINQEruption.AssemblyInfo.cs
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\obj\Debug\net6.0\LINQEruption.csproj.CoreCompileInputs.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\obj\Debug\net6.0\LINQEruption.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\obj\Debug\net6.0\refint\LINQEruption.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\obj\Debug\net6.0\LINQEruption.pdb
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\obj\Debug\net6.0\LINQEruption.genruntimeconfig.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\LINQEruption\obj\Debug\net6.0\ref\LINQEruption.dll
